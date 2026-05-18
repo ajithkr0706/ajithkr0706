@@ -52,10 +52,7 @@
 
 
 ## 🏆 Certifications  
-
-✅ Deloitte Technology Job Simulation – Forage  
-✅ Vadodara Hackathon 6.0 – Participant  
-✅ Campus Ambassador Program – Kitech  
+  
 ✅ MIC MASTER – 2025  
 ✅ Android App Development Bootcamp (Kotlin) – Udemy  
 
